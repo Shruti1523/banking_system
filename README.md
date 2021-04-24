@@ -1,2 +1,2 @@
-# banking_system
+# Banking System
 C++ Simple Project to understand OOPs concepts properly.
